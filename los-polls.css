@@ -1,0 +1,97 @@
+.logo{
+width:50px;
+height:auto;
+margin-right:100px;
+margin-left:10px;
+flat:left
+}
+body{
+background-color:#ffd700
+}
+
+.home,
+.product,
+.report,
+.about-us{
+padding:15px;
+font-family:Noto Sans;
+font-weight:600;
+text-decoration:none; 
+
+
+}
+.main-p{
+margin-top:150px;
+ color:white;
+margin-left:70px;
+font-size:50px;
+font-family:Roboto;
+font-weight:900;
+;
+}
+.main-p-II{
+
+font-size:70px;
+margin-top:0px;
+margin-bottom:0%;
+padding-top:0px; 
+float:bottom;
+}
+.fake-fucation{
+font-size:30px;
+width:40%;
+float:right;
+float:left;
+}
+.main-p-I{
+float:bottom;
+}
+.buy-now{
+padding:10px 20px 10px 20px;
+background-color:#ff4500;
+border-radius:15px ;
+margin-top:10%;
+margin-left:30px;
+}
+
+.buy-now:hover {
+color:#800000; 
+transition:0.3s
+}
+/* make it tommrwo */
+fake-fucation::selcation{
+color:yellow;
+background-color:black;
+}
+a{
+text-decoration:none;
+color:black;
+}
+.big-word-product{
+color:white;
+font-size:60px;
+margin-top:20px;
+margin-left:20px;
+font-family:Roboto;
+font-weight:900;
+}
+.food1{
+width:150px;
+height:auto;
+margin-top:40px;
+}
+.buy-food1{
+
+padding:10px 20px 10px 20px;
+background-color:#ff4500;
+border-radius:15px ;
+margin-top:;
+margin-left:30px;
+}
+.cost-food1{
+color:#800000;
+margin-left:20px;
+}
+
+
+
